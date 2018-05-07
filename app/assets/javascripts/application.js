@@ -13,4 +13,6 @@
 //= require rails-ujs
 //= require activestorage
 //= require turbolinks
+//= require tabler
+//= require tabler.plugins
 //= require_tree .
